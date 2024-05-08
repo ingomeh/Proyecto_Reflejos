@@ -52,9 +52,11 @@
 }
 
 .page-login .titulo h2{
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 600;
     letter-spacing: 4px;
+    padding-top: 15px;
+    text-align: center;
 }
 
 .page-login .inputs{
@@ -93,7 +95,7 @@
 }
 
 .page-login .iconos label{
-    color: black;
+    color: #3c95d4;
     font-weight: bold;
     align-self: flex-start;
     margin-left: 10%;
@@ -102,7 +104,7 @@
 
 .page-login .inputs button{
     border: #3c95d4 1px solid;
-    color: #3c95d4;
+    color: black;
     display: block;
     padding: 13px;
     border-radius: 5px;
